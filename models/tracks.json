@@ -1,0 +1,19 @@
+{
+  "file": "./models/tracks.json",
+  "tracks": [
+    {
+      "title": "demo",
+      "artist": "test",
+      "duration": null,
+      "_id": "2b42c475-5ee8-4a7c-b957-a2afc0e5e602",
+      "playlistid": "81435688-c3aa-4028-bf53-5aefb322330b"
+    },
+    {
+      "title": "test",
+      "artist": "test",
+      "duration": null,
+      "_id": "33660f7f-e8bd-4dff-850d-640a367cf224",
+      "playlistid": "81435688-c3aa-4028-bf53-5aefb322330b"
+    }
+  ]
+}
