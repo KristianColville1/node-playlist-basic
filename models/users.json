@@ -1,0 +1,12 @@
+{
+  "file": "./models/users.json",
+  "users": [
+    {
+      "firstName": "kristian",
+      "lastName": "colville",
+      "email": "kristian@gmail.com",
+      "password": ".kmTqg'bSF!hN\"2",
+      "_id": "4c093d80-cdc0-4170-88ed-6ae9239e1c46"
+    }
+  ]
+}
